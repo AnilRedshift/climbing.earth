@@ -120,7 +120,7 @@ a {
       .masthead .intro-body .intro-text {
         font-size: 22px; } }
 
-#photographer {
+#about {
   background: url(../img/photog.jpg) no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
@@ -155,7 +155,7 @@ a {
 @media (min-width: 767px) {
   .content-section {
     margin-top: 250px; }
-  #photographer {
+  #about {
     min-height: 500px; } }
 
 .btn {
