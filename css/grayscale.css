@@ -141,6 +141,8 @@ a {
 .content-section {
   margin-top: 100px;
   padding-top: 50px; }
+  .content-section p {
+    text-align: left; }
 
 .download-section {
   width: 100%;
