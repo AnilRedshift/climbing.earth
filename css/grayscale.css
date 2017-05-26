@@ -120,6 +120,14 @@ a {
       .masthead .intro-body .intro-text {
         font-size: 22px; } }
 
+#photographer {
+  background: url(../img/photog.jpg) no-repeat bottom center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
 .btn-circle {
   font-size: 26px;
   width: 50px;
